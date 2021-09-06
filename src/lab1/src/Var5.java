@@ -11,19 +11,10 @@ public class Var5 extends JFrame {
     Var5(){
         this.add(canvas);
         this.setSize(width, height);
+        this.setBackground(Color.decode("#A1ADBD"));
     }
 
     public void paint(Graphics pen) {
-        // canvas.setBackground(Color.decode("#A1ADBD"));
-        canvas.setBackground(Color.blue);
-
-//        pen.setColor(Color.GREEN);
-//        for (int i = 10; i < height; i = i + 10) {
-//            for (int j = 10; j < height; j = j + 10) {
-//                drawCoord(pen, i, j);
-//            }
-//        }
-
         pen.setColor(Color.WHITE);
         pen.drawString("Var 5", 284, 52);
 
