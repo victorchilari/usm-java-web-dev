@@ -57,7 +57,7 @@ module.exports = {
 						items: [
 							{
 								label: 'GitHub',
-								href: 'https://github.com/facebook/docusaurus'
+								href: 'https://github.com/victorchilari/usm-java-web-dev'
 							}
 						]
 					}
