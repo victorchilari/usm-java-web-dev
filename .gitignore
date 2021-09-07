@@ -20,4 +20,4 @@ yarn-debug.log*
 yarn-error.log*
 
 # Folder out for all labs
-/src/lab*/out
+/docs/lab*/out

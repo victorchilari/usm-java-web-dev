@@ -1,6 +1,6 @@
 ### Codul sursa a laboratoarelor
 
-> Codul sursa se afla la adresa `/scr/lab*/src`.
+> Codul sursa se afla la adresa `/docs/lab*/src`.
 
 La momentul actual, fiecare laborator este creat ca un proiect separat. In fiecare din aceste proiect se afla un folder `src` in care se alfa fisierul denumirea caruia corespunde variantei mele, si fisiere aditionale care fac parte din rezolvare, sau sunt exemple.
 
